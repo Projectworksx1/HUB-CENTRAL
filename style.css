@@ -7,6 +7,13 @@
 header {
   display: flex;
   background-color: rgb(111, 185, 0);
+  justify-content: space-around;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
 }
 
 #logo {
@@ -212,4 +219,5 @@ main {
 
 #ramal a:hover {
  font-size: 40px;
+
 }
