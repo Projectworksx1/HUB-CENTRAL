@@ -221,3 +221,12 @@ main {
  font-size: 40px;
 
 }
+
+footer {
+  background-color: rgb(111, 185, 0);
+  padding: 20px;
+  letter-spacing: 2px;
+  text-align: center;
+  font-weight: 600;
+}
+
